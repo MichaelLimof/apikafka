@@ -20,9 +20,3 @@ Se conseguir sincrona/assincrona
 - Receber uma resposta assincrona de quando o email com certificado foi enviado;
 
 
-
-## O que sabemos?
-
-- REST (latencia);
-- Redis / RabbitMQ / **Kafka**;
-
